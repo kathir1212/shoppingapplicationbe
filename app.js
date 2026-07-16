@@ -27,7 +27,7 @@ await connectCloudinary()
 
 // const allowedOrigin = [
 //   "http://localhost:5173",        // for local dev
-const allowedOrigin = "https://shoppingapplicationfe.netlify.app/";
+const allowedOrigin = "https://shoppingapplicationfe.netlify.app";
 // const allowedOrigin = "http://localhost:5173";
 
 
